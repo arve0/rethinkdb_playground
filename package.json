@@ -1,0 +1,19 @@
+{
+  "name": "rethinkdb_playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "rethinkdb": "^2.3.1",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {
+    "open": "0.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
